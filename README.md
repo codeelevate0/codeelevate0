@@ -49,7 +49,7 @@
 <p align="left">
   <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="aws" title="aws" width="40" height="40" />
   <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" title="gcp" width="40" height="40" />
-  <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" title="azure" width="40" height="40" />
+  <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-ar21.svg" alt="azure" title="azure" width="70" height="40" />
 </p>
 
 #### MLOps & DevOps Stack
@@ -58,30 +58,30 @@
   <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="terraform" title="terraform" width="40" height="40" />
   <img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" alt="ansible" title="ansible" width="40" height="40" />
   <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="docker" title="docker" width="40" height="40" />
-  <img src="https://www.vectorlogo.zone/logos/mlflow/mlflow-icon.svg" alt="mlflow" title="mlflow" width="40" height="40" />
-  <img src="https://www.vectorlogo.zone/logos/kubeflow/kubeflow-icon.svg" alt="kubeflow" title="kubeflow" width="40" height="40" />
+<!--   <img src="https://www.vectorlogo.zone/logos/mlflow/mlflow-icon.svg" alt="mlflow" title="mlflow" width="40" height="40" />
+  <img src="https://www.vectorlogo.zone/logos/kubeflow/kubeflow-icon.svg" alt="kubeflow" title="kubeflow" width="40" height="40" /> -->
 </p>
 
 #### Monitoring & Observability
 <p align="left">
   <img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" alt="prometheus" title="prometheus" width="40" height="40" />
   <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" title="grafana" width="40" height="40" />
-  <img src="https://www.vectorlogo.zone/logos/weblogs/weblogs-icon.svg" alt="weblogs" title="weblogs" width="40" height="40" />
+<!--   <img src="https://www.vectorlogo.zone/logos/weblogs/weblogs-icon.svg" alt="weblogs" title="weblogs" width="40" height="40" /> -->
 </p>
 
 #### Databases
 <p align="left">
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" alt="postgresql" title="postgresql" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" title="mongodb" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/elasticsearch/elasticsearch-icon.svg" alt="elasticsearch" title="elasticsearch" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/elastic/elastic-ar21.svg" alt="elasticsearch" title="elasticsearch" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/redis/redis-icon.svg" alt="redis" title="redis" width="40" height="40"/>
 </p>
 
 #### Data Engineering
 <p align="left">
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kafka/kafka.png" alt="kafka" title="kafka" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/pandas/pandas.png" alt="pandas" title="pandas" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/numpy/numpy.png" alt="numpy" title="numpy" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-ar21.svg" alt="kafka" title="kafka" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/usepanda/usepanda-ar21.svg" alt="pandas" title="pandas" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/numpy/numpy-ar21.svg" alt="numpy" title="numpy" width="40" height="40"/>
 </p>
 
 #### Project Management & Version Control
