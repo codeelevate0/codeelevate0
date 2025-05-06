@@ -73,15 +73,15 @@
 <p align="left">
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" alt="postgresql" title="postgresql" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" title="mongodb" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/elastic/elastic-ar21.svg" alt="elasticsearch" title="elasticsearch" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/elastic/elastic-ar21.svg" alt="elasticsearch" title="elasticsearch" width="70" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/redis/redis-icon.svg" alt="redis" title="redis" width="40" height="40"/>
 </p>
 
 #### Data Engineering
 <p align="left">
-  <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-ar21.svg" alt="kafka" title="kafka" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/usepanda/usepanda-ar21.svg" alt="pandas" title="pandas" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/numpy/numpy-ar21.svg" alt="numpy" title="numpy" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-ar21.svg" alt="kafka" title="kafka" width="70" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/usepanda/usepanda-ar21.svg" alt="pandas" title="pandas" width="70" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/numpy/numpy-ar21.svg" alt="numpy" title="numpy" width="70" height="40"/>
 </p>
 
 #### Project Management & Version Control
