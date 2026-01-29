@@ -17,7 +17,7 @@
 
 💬 Ask me about **Data Engineering, Streaming Systems, Analytics Engineering, and Platform Architecture**
 
-📫 You can reach me at **rickkane.ml@gmail.com**
+📫 You can reach me at **sophiavalhari@gmail.com**
 
 ⚡ Fun fact **I enjoy designing data systems that stay reliable under scale and pressure**
 
