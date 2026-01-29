@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm 🌀 Lead Data Engineer</h1>
+<h1 align="center">Hi 👋, I'm Sophia Lead Data Engineer</h1>
 <h3 align="center">An Engineer focused on Scalable Data Platforms, Streaming, and Analytics Engineering</h3>
 
 <p align="center">
